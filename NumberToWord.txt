@@ -1,4 +1,8 @@
-.Net Framework used: 4.5
-Unit testing done for the business logic using MSTest framework
-Usage of Web services that interacts with the BL layer to process the business logic and return result to UI
-Asp.net web form pages used to capture input from user and display the converted result
+# .Net Framework used: 4.5
+# Unit testing done for the business logic using MSTest framework
+# Usage of Web services that interacts with the BL layer to process the business logic and return result to UI
+# Asp.net web form pages used to capture input from user and display the converted result
+# Input has to be a whole number or a decimal to get properly converted to word
+# special characters other than . not allowed.
+# Both name and number are mandatory to do the conversion.
+

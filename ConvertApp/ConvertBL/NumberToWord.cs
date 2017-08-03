@@ -28,7 +28,12 @@ namespace ConvertBL
                         andStr = " point";
                     }
                 }
-                val = String.Format("{0}{1}{2}", TranslateWholeNumber(wholeNumber), andStr, pointStr);
+                String wholeStr = TranslateWholeNumber(wholeNumber);
+                if (wholeStr.EndsWith("and"))
+                {
+                    wholeStr = wholeStr.Remove(wholeStr.LastIndexOf("and"), 3);
+                }
+                val = String.Format("{0}{1}{2}", wholeStr, andStr, pointStr);              
             }
             catch(Exception ex) 
             {
@@ -193,7 +198,7 @@ namespace ConvertBL
                 bool isDone = false;
                 bool isHundred = false;              
                 
-               number =  (number.StartsWith("0")) ? number.Remove(0).ToString() : number;
+               number =  (number.StartsWith("0")) ? number.Remove(0,1).ToString() : number;
 
                int numDigits = number.Length;
                int pos = 0;

@@ -3,3 +3,7 @@ D:\Projects\ConvertApp\ConvertBL\bin\Debug\ConvertBL.pdb
 D:\Projects\ConvertApp\ConvertBL\obj\Debug\ConvertBL.csprojResolveAssemblyReference.cache
 D:\Projects\ConvertApp\ConvertBL\obj\Debug\ConvertBL.dll
 D:\Projects\ConvertApp\ConvertBL\obj\Debug\ConvertBL.pdb
+D:\MyProject\MyWorks\ConvertApp\ConvertBL\bin\Debug\ConvertBL.dll
+D:\MyProject\MyWorks\ConvertApp\ConvertBL\bin\Debug\ConvertBL.pdb
+D:\MyProject\MyWorks\ConvertApp\ConvertBL\obj\Debug\ConvertBL.dll
+D:\MyProject\MyWorks\ConvertApp\ConvertBL\obj\Debug\ConvertBL.pdb

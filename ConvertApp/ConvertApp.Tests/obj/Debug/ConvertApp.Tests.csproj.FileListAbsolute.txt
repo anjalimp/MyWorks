@@ -6,3 +6,11 @@ D:\Projects\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.csprojResolve
 D:\Projects\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.dll
 D:\Projects\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.pdb
 D:\Projects\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertApp.Tests.dll.config
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertApp.Tests.dll.config
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertApp.Tests.dll
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertApp.Tests.pdb
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertBL.dll
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertBL.pdb
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.csprojResolveAssemblyReference.cache
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.dll
+D:\MyProject\MyWorks\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.pdb

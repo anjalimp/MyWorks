@@ -6,3 +6,11 @@ D:\Projects\ConvertApp\WordConverter\bin\ConvertBL.pdb
 D:\Projects\ConvertApp\WordConverter\obj\Debug\WordConverter.csprojResolveAssemblyReference.cache
 D:\Projects\ConvertApp\WordConverter\obj\Debug\WordConverter.dll
 D:\Projects\ConvertApp\WordConverter\obj\Debug\WordConverter.pdb
+D:\MyProject\MyWorks\ConvertApp\WordConverter\bin\WordConverter.dll.config
+D:\MyProject\MyWorks\ConvertApp\WordConverter\bin\WordConverter.dll
+D:\MyProject\MyWorks\ConvertApp\WordConverter\bin\WordConverter.pdb
+D:\MyProject\MyWorks\ConvertApp\WordConverter\bin\ConvertBL.dll
+D:\MyProject\MyWorks\ConvertApp\WordConverter\bin\ConvertBL.pdb
+D:\MyProject\MyWorks\ConvertApp\WordConverter\obj\Debug\WordConverter.csprojResolveAssemblyReference.cache
+D:\MyProject\MyWorks\ConvertApp\WordConverter\obj\Debug\WordConverter.dll
+D:\MyProject\MyWorks\ConvertApp\WordConverter\obj\Debug\WordConverter.pdb

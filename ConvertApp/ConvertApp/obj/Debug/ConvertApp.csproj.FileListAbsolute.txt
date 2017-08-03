@@ -4,3 +4,8 @@ D:\Projects\ConvertApp\ConvertApp\bin\ConvertApp.pdb
 D:\Projects\ConvertApp\ConvertApp\obj\Debug\ConvertApp.csprojResolveAssemblyReference.cache
 D:\Projects\ConvertApp\ConvertApp\obj\Debug\ConvertApp.dll
 D:\Projects\ConvertApp\ConvertApp\obj\Debug\ConvertApp.pdb
+D:\MyProject\MyWorks\ConvertApp\ConvertApp\bin\ConvertApp.dll.config
+D:\MyProject\MyWorks\ConvertApp\ConvertApp\bin\ConvertApp.dll
+D:\MyProject\MyWorks\ConvertApp\ConvertApp\bin\ConvertApp.pdb
+D:\MyProject\MyWorks\ConvertApp\ConvertApp\obj\Debug\ConvertApp.dll
+D:\MyProject\MyWorks\ConvertApp\ConvertApp\obj\Debug\ConvertApp.pdb
