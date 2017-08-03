@@ -1,0 +1,8 @@
+D:\Projects\ConvertApp\WordConverter\bin\WordConverter.dll.config
+D:\Projects\ConvertApp\WordConverter\bin\WordConverter.dll
+D:\Projects\ConvertApp\WordConverter\bin\WordConverter.pdb
+D:\Projects\ConvertApp\WordConverter\bin\ConvertBL.dll
+D:\Projects\ConvertApp\WordConverter\bin\ConvertBL.pdb
+D:\Projects\ConvertApp\WordConverter\obj\Debug\WordConverter.csprojResolveAssemblyReference.cache
+D:\Projects\ConvertApp\WordConverter\obj\Debug\WordConverter.dll
+D:\Projects\ConvertApp\WordConverter\obj\Debug\WordConverter.pdb

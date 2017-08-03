@@ -1,0 +1,8 @@
+D:\Projects\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertApp.Tests.dll
+D:\Projects\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertApp.Tests.pdb
+D:\Projects\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertBL.dll
+D:\Projects\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertBL.pdb
+D:\Projects\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.dll
+D:\Projects\ConvertApp\ConvertApp.Tests\obj\Debug\ConvertApp.Tests.pdb
+D:\Projects\ConvertApp\ConvertApp.Tests\bin\Debug\ConvertApp.Tests.dll.config
